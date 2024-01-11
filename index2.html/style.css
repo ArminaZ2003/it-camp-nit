@@ -1,0 +1,20 @@
+{
+    margin:8;
+    padding:8;
+    box-sizing:border-box;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    border:1px solid black;
+}
+.prvi{
+
+background-color: blue;
+position: relative;
+
+
+}
+.drugi{
+    background-color: red;
+}
